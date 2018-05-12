@@ -1,0 +1,195 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="veteransproject.com" resolutions="1x" timestamp="1526137227761">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="228290617" ref="shop:index:contact:about"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="shop:index:contact:about"/>
+    <file name="shop.css" crc="87715725" ref="shop"/>
+    <file name="nomq_shop.css" crc="462880999" ref="shop"/>
+    <file name="index.css" crc="3978446818" ref="index"/>
+    <file name="nomq_index.css" crc="4218991263" ref="index"/>
+    <file name="contact.css" crc="4220380183" ref="contact"/>
+    <file name="nomq_contact.css" crc="4243987534" ref="contact"/>
+    <file name="about.css" crc="4244982515" ref="about"/>
+    <file name="nomq_about.css" crc="425880566" ref="about"/>
+  </folder>
+  <folder name="assets">
+    <file name="star-animation.fla" crc="3875913782" seo="true" mt="1525828230000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:shop:contact"/>
+    <file name="museutils.js" crc="340535759" ref="index:about:shop:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:shop:contact"/>
+    <file name="museconfig.js" crc="310584261" ref="index:about:shop:contact"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:about:shop:contact"/>
+    <file name="webpro.js" crc="4059564322" ref="index:about:shop:contact"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index:about:shop:contact"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:about:shop:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:shop:contact"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:about:shop:contact"/>
+    <file name="require.js" crc="7928878" ref="index:about:shop:contact"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="about"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="about"/>
+    <file name="touchswipe.js" crc="4075097462" ref="about"/>
+    <file name="form_check.php" crc="4020933626" ref="contact"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contact"/>
+    <file name="form_process.php" crc="37464564" ref="contact"/>
+    <file name="form-u7876.php" crc="502440129" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="u4533-4.png" crc="4293845895" ref="index:about:shop:contact"/>
+    <file name="icon_menu_over.png" crc="4135241706" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about:shop:contact"/>
+    <file name="u3967.png" crc="280576421" ref="index:about:shop:contact"/>
+    <file name="u3967-r.png" crc="274582916" ref="index:about:shop:contact"/>
+    <file name="u3967-m.png" crc="280576421" ref="index:about:shop:contact"/>
+    <file name="u3967-a.png" crc="274582916" ref="index:about:shop:contact"/>
+    <file name="u3956.png" crc="515814428" ref="index:about:shop:contact"/>
+    <file name="u3956-r.png" crc="4237817854" ref="index:about:shop:contact"/>
+    <file name="u3956-m.png" crc="515814428" ref="index:about:shop:contact"/>
+    <file name="u3956-a.png" crc="4237817854" ref="index:about:shop:contact"/>
+    <file name="u3960.png" crc="50774882" ref="index:about:shop:contact"/>
+    <file name="u3960-r.png" crc="62238258" ref="index:about:shop:contact"/>
+    <file name="u3960-m.png" crc="50774882" ref="index:about:shop:contact"/>
+    <file name="u3960-a.png" crc="62238258" ref="index:about:shop:contact"/>
+    <file name="u3946.png" crc="3784001556" ref="index:about:shop:contact"/>
+    <file name="u3946-r.png" crc="518728124" ref="index:about:shop:contact"/>
+    <file name="u3946-m.png" crc="3784001556" ref="index:about:shop:contact"/>
+    <file name="u3946-a.png" crc="518728124" ref="index:about:shop:contact"/>
+    <file name="adobestock_80460506-crop-u164.jpg" crc="3795836207" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="adobestock_80460506.jpg" crc="516114759" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="adobestock_80460506-crop-u1642.jpg" crc="4068577514" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pexels-photo-67717.jpg" crc="4120384325" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="soldier-uniform-army-weapon-41161.jpg" crc="442301264" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="silent-drill-platoon-1398509_1920.jpg" crc="4048667040" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="uss-harry-s-2778528_1920.jpg" crc="178856559" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="fighter-jet-63032_1920.jpg" crc="354065838" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="about"/>
+    <file name="u465-4.png" crc="527981738" ref="about"/>
+    <file name="u488-4.png" crc="4013919456" ref="about"/>
+    <file name="u497-4.png" crc="178844127" ref="about"/>
+    <file name="u500-4.png" crc="249282291" ref="about"/>
+    <file name="u503-4.png" crc="4089950098" ref="about"/>
+    <file name="u506-4.png" crc="373203396" ref="about"/>
+    <file name="u465-42.png" crc="13947510" ref="about"/>
+    <file name="u488-42.png" crc="246044170" ref="about"/>
+    <file name="u497-42.png" crc="3834357372" ref="about"/>
+    <file name="u500-42.png" crc="204055792" ref="about"/>
+    <file name="u503-42.png" crc="3860386659" ref="about"/>
+    <file name="u506-42.png" crc="46052532" ref="about"/>
+    <file name="pexels-photo-67717433x288.jpg" crc="4068700317" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="soldier-uniform-army-weapon-41161461x307.jpg" crc="4166571140" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="silent-drill-platoon-1398509_1920458x309.jpg" crc="3856615157" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="uss-harry-s-2778528_1920509x325.jpg" crc="419822037" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="fighter-jet-63032_1920489x325.jpg" crc="3788085767" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u465-43.png" crc="3888685015" ref="about"/>
+    <file name="u488-43.png" crc="4079358412" ref="about"/>
+    <file name="u497-43.png" crc="329247104" ref="about"/>
+    <file name="u500-43.png" crc="3770286536" ref="about"/>
+    <file name="u503-43.png" crc="123578390" ref="about"/>
+    <file name="u506-43.png" crc="3995554055" ref="about"/>
+    <file name="benjamin-faust-8310-unsplash-crop-u589.jpg" crc="4197169071" seo="true" ref="shop">
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="jeff-sheldon-3232-unsplash-crop-u4764.jpg" crc="4141239866" seo="true" ref="shop">
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="u1112-4.png" crc="451501131" ref="shop"/>
+    <file name="dvd-2418366_640.jpg" crc="264027450" seo="true" ref="shop">
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="u1192-4.png" crc="3831535870" ref="shop"/>
+    <file name="muesli-2109098_640-crop-u4750.jpg" crc="4260407934" seo="true" ref="shop">
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="u1195-4.png" crc="3894679973" ref="shop"/>
+    <file name="u1228-4.png" crc="19289457" ref="shop"/>
+    <file name="soap-864951_640-crop-u4736.jpg" crc="4180691597" seo="true" ref="shop">
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="u1198-4.png" crc="369493804" ref="shop"/>
+    <file name="u1228-42.png" crc="39951177" ref="shop"/>
+    <file name="u1192-42.png" crc="4159554979" ref="shop"/>
+    <file name="soap-864951_640-crop-u47362.jpg" crc="394107060" seo="true" ref="shop">
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="u1198-42.png" crc="3931025005" ref="shop"/>
+    <file name="jeff-sheldon-3232-unsplash-crop-u47642.jpg" crc="3976897837" seo="true" ref="shop">
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="muesli-2109098_640-crop-u47502.jpg" crc="4123220453" seo="true" ref="shop">
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="u1112-42.png" crc="457130244" ref="shop"/>
+    <file name="u1195-42.png" crc="255433079" ref="shop"/>
+    <file name="benjamin-faust-8310-unsplash-crop-u5892.jpg" crc="203799397" seo="true" ref="shop">
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="benjamin-faust-8310-unsplash-crop-u5893.jpg" crc="472338593" seo="true" ref="shop">
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="u1228-43.png" crc="325670898" ref="shop"/>
+    <file name="jeff-sheldon-3232-unsplash-crop-u47643.jpg" crc="3988477208" seo="true" ref="shop">
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="u1112-43.png" crc="331880669" ref="shop"/>
+    <file name="soap-864951_640-crop-u47363.jpg" crc="3926889552" seo="true" ref="shop">
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="u1192-43.png" crc="509347881" ref="shop"/>
+    <file name="muesli-2109098_640-crop-u47503.jpg" crc="4276088713" seo="true" ref="shop">
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="u1195-43.png" crc="3771796778" ref="shop"/>
+    <file name="u1198-43.png" crc="3931025005" ref="shop"/>
+    <file name="paulette-wooten-302390-unsplash-crop-u1075.jpg" crc="499066714" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="paulette-wooten-302390-unsplash-crop-u10752.jpg" crc="4042744060" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="paulette-wooten-302390-unsplash-crop-u10753.jpg" crc="4228855705" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4080410080" seo="true" mt="1526060084056" redirect="true"/>
+  <file name="about.html" crc="191355423" seo="true" mt="1526060084056" redirect="true"/>
+  <file name="shop.html" crc="308964755" seo="true" mt="1526060084056" redirect="true"/>
+  <file name="contact.html" crc="4034144453" seo="true" mt="1526060084056" redirect="true"/>
+</manifest>
